@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="spinners.SpinnerPage" BackgroundColor="Black">
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical" Padding="8">
+			<StackLayout Orientation="Horizontal">
+				<Label Text="Primary" WidthRequest="90" TextColor="White"/>
+				<Label x:Name="lblColor" WidthRequest="200" TextColor="White"/>	
+			</StackLayout>
+			<StackLayout Orientation="Horizontal" >
+				<Label Text="Primary" WidthRequest="90" TextColor="White"/>
+				<Picker x:Name="spinPrimary" WidthRequest="200"/>	
+			</StackLayout>
+			<StackLayout Orientation="Horizontal">
+				<Label Text="Secondary" WidthRequest="90" TextColor="White"/>
+				<Picker x:Name="spinSecondary" WidthRequest="200" />		
+			</StackLayout>
+			<StackLayout Orientation="Horizontal">
+				<Label Text="Additional" WidthRequest="90" TextColor="White"/>
+				<Picker x:Name="spinAdditional" WidthRequest="200" />	
+			</StackLayout>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

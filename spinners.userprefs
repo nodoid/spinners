@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{91D645F1-BF60-4F2E-B440-C9B73785EA38}|Default">
+  <MonoDevelop.Ide.ItemProperties.spinners.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.862E782F-CEFA-4078-BC42-52CABEADCCDE">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.spinners.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="spinners/spinners.cs">
+    <Files>
+      <File FileName="spinners/SpinnerPage.xaml" Line="7" Column="66" />
+      <File FileName="spinners/SpinnerPage.xaml.cs" Line="32" Column="27" />
+      <File FileName="spinners/spinners.cs" Line="13" Column="62" />
+      <File FileName="spinners/obj/Debug/spinners.SpinnerPage.xaml.g.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/PFJ/Developer/spinners/spinners/SpinnerPage.xaml.cs" relfile="spinners/SpinnerPage.xaml.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.spinners HideGettingStarted="True" />
+</Properties>
